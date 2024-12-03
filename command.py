@@ -264,3 +264,4 @@ class EchoBotLayer(YowLayer):
             elif text.startswith('.kill'):
                 self.sendMessage(message.to, "Commande kill non implémentée.")
             elif
+flake8 command.py
