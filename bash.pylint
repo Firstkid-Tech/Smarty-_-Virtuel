@@ -1,0 +1,4 @@
+pylint <command>.py
+pytest
+npm install
+npm test
