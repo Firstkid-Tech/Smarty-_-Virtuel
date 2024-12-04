@@ -1,5 +1,5 @@
 npm install dotenv
 npm install pg
 node command.js
-
+./command.py
 
